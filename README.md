@@ -1,3 +1,6 @@
+# JavaScript Tic Tac Toe Game
+![mockup](images/mock-up.png)
+
 The live website can be found [here](https://github.com/kaytee123/tic-tac-toe-javascript-ms2)
 
 ## User Experience Design

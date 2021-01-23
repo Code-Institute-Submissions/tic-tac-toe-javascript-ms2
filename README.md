@@ -66,6 +66,20 @@ Description:<br>
 Bootstrap will be used to lay the content of the Website out in containers, rows and columns. Mobile first design will be used when coding the project and testing will be required to ensure the layout is clear on all devices. No elements should overlap their containers and all items should be responsive so that no elements are too large to display properly.
 
 
+### **The Skeleton Plane**
+#### Wireframes
+Mobile and Desktop view
+![Wireframe](images/wireframe.jpg)
+
+### **The Surface Plane**
+### Design
+
+#### Colour Scheme
+Body colour: Green 
+Text colour: blue 
+Game Board background colour: Deep green
+Information on winning: white colour
+Restart or play again: Red
 
 ****
 ## Technologies
